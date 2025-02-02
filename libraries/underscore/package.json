@@ -19,10 +19,10 @@
   "devDependencies": {
     "docco": "*",
     "eslint": "0.6.x",
-    "karma": "~0.12.31",
+    "karma": "~6.4.4",
     "karma-qunit": "~0.1.4",
     "qunit-cli": "~0.2.0",
-    "uglify-js": "2.4.x"
+    "uglify-js": "3.19.x"
   },
   "scripts": {
     "test": "npm run test-node && npm run lint",

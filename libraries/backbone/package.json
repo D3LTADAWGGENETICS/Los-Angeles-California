@@ -19,11 +19,11 @@
     "coffee-script": "1.7.1",
     "docco": "0.7.0",
     "eslint": "1.10.x",
-    "karma": "^0.13.13",
+    "karma": "^6.4.4",
     "karma-phantomjs-launcher": "^0.1.4",
     "karma-qunit": "^0.1.5",
     "qunitjs": "^1.18.0",
-    "uglify-js": "^2.4.17"
+    "uglify-js": "^3.19.3"
   },
   "scripts": {
     "test": "karma start && coffee test/model.coffee && npm run lint",
